@@ -3,4 +3,5 @@
 faiss_index/
 venv/
 __pycache__/
-*.pyc
+*.pyc
+*.pdf
